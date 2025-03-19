@@ -1,1 +1,9 @@
 # Solutions for the Data Science Entry Test
+
+## Solution for Question 1
+A swap function to swap the values of x and y if both are numeric. Their original and swapped values are printed. 
+If either or both is non-numeric, a -1 is return.
+
+Two test scenarios were invoked to test the swap function
+
+## Solution for Question 2
