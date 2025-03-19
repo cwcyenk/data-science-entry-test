@@ -7,3 +7,6 @@ If either or both is non-numeric, a -1 is returned.
 Two test scenarios were invoked to test the swap function
 
 ## Solution for Question 2
+A function (find_and_replace) to find a specific value (find_val) in a list (lst) and replaces it with a new value (replace_val).
+
+Two test scenarios were invoked to test the find_and_replace function
