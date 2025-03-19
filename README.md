@@ -1,1 +1,1 @@
-# data-science-entry-test
+# Solutions for the Data Science Entry Test
