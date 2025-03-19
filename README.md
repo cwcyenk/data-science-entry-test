@@ -20,3 +20,8 @@ Two test scenarios were invoked to test the update_dictionary function
 A function to reverse a string and return the reversed string
 
 Two test scenarios were invoked to test the update_dictionary function
+
+## Solution for Question 5 (q5.py)
+A function to check the divisibility of a number over a divisor using modulo.
+
+Two test scenarios were invoked to test the update_dictionary function
