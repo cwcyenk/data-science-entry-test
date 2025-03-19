@@ -30,3 +30,8 @@ Two test scenarios were invoked to test the check_divisibility function
 A function (find_first_negative) to find and return the first negative number in a list. If no negative is found, return "No negatives".
 
 Two test scenarios were invoked to test the find_first_negative function
+
+## Solution for Question 7 (q7.py)
+Defining a class named Car with the following attributes: make, model, year
+
+Created an instance with the following attributes: Year = 2020, Make = Toyota, Model = Corolla
