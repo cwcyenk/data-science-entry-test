@@ -17,11 +17,16 @@ A function (update_dictionary) to update a key-value pair, if key exists, or oth
 Two test scenarios were invoked to test the update_dictionary function
 
 ## Solution for Question 4 (q4.py)
-A function to reverse a string and return the reversed string
+A function (string_reverse) to reverse a string and return the reversed string
 
-Two test scenarios were invoked to test the update_dictionary function
+Two test scenarios were invoked to test the string_reverse function
 
 ## Solution for Question 5 (q5.py)
-A function to check the divisibility of a number over a divisor using modulo.
+A function (check_divisibility) to check the divisibility of a number over a divisor using modulo.
 
-Two test scenarios were invoked to test the update_dictionary function
+Two test scenarios were invoked to test the check_divisibility function
+
+## Solution for Question 6 (q6.py)
+A function (find_first_negative) to find and return the first negative number in a list. If no negative is found, return "No negatives".
+
+Two test scenarios were invoked to test the find_first_negative function
