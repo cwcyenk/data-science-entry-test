@@ -12,7 +12,7 @@ def swap(x, y):
     else:
         return -1
         
-""" Test scenario 1"""
+""" Test scenario 1 """
 print("Test Scenario 1")
 swap("Apple", 10)
 
